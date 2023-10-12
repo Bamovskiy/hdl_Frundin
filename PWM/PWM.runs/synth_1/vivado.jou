@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Fri Sep 29 14:19:45 2023
+# Process ID: 5664
+# Current directory: D:/Students/Frundin/HDL/PWM/PWM.runs/synth_1
+# Command line: vivado.exe -log PWM.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source PWM.tcl
+# Log file: D:/Students/Frundin/HDL/PWM/PWM.runs/synth_1/PWM.vds
+# Journal file: D:/Students/Frundin/HDL/PWM/PWM.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source PWM.tcl -notrace

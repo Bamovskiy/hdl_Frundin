@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Oct  5 17:20:25 2023
+# Process ID: 4204
+# Current directory: D:/HDL/fpga/lab3/PWM
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9836 D:\HDL\fpga\lab3\PWM\PWM.xpr
+# Log file: D:/HDL/fpga/lab3/PWM/vivado.log
+# Journal file: D:/HDL/fpga/lab3/PWM\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/HDL/fpga/lab3/PWM/PWM.xpr
+update_compile_order -fileset sources_1
+write_project_tcl D:/HDL/fpga/lab3/pwm.tcl
+source D:/HDL/fpga/lab3/pwm.tcl
+current_project PWM
+sou
+source D:/HD
+source D:/HDL/fpga/lab3/PWM.tcl
+close_project
